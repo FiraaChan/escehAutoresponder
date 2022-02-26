@@ -11,6 +11,6 @@
  > https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 [![Zeeone](https://github.com/zeeone-ofc.png?size=100)](https://github.com/zeeone-ofc)
-----|----
+
 [Zeeone](https://github.com/zeeone-ofc)
  Creator 
